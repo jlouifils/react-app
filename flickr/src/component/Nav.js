@@ -1,5 +1,5 @@
 import React from 'react';
-import {NavLink} from 'rect-router-dom';
+import {NavLink} from 'react-router-dom';
 
 const Nav = () => (
     <nav className="main-nav">

@@ -10,7 +10,7 @@ import Nav from './component/Nav';
 import Boondocks from './component/Boondocks';
 import LooneyTunes from "./component/LooneyTunes"
 import Graffiti from './component/Graffiti';
-import apiKey from './Component/Config';
+import apiKey from './component/Config';
 import NotFound from './component/NotFound';
 
 // Storing the apiKey into a variable
