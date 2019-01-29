@@ -1,7 +1,7 @@
 import React from 'react';
 import {NavLink} from 'rect-router-dom';
 
-const Navigation = () => (
+const Nav = () => (
     <nav className="main-nav">
         <ul>
             <li><NavLink to="/looneytunes">Looney Tunes</NavLink></li>
